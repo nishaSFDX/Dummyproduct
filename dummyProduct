@@ -1,0 +1,4 @@
+Please install this unmanaged package in target org 
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04tWU000000541N .
+After installation, click on app launcher and search for "Integration Product".
+Click on refresh button to load the records from dummyJSON.
